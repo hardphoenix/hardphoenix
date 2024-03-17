@@ -1,4 +1,4 @@
-### 👋 Hi There, I'm [Mohammad Hosien Taheri](https://github.com/hardphoenix) ὴ
+### 👋 Hi There, I'm [Mohammad Hosien Taheri](https://github.com/hardphoenix) 
 
 Hi, I'm Mohammad Hosein Taheri, a Embedded developer, And .Net Developer ,My bachelor's degree is in Electronic engineer Ώ.
 
