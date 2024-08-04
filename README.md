@@ -2,6 +2,8 @@
 
 Hi, I'm Mohammad Hosein Taheri, a Embedded developer, And .Net Developer ,My bachelor's degree is in Electronic engineer [Ώ].
 
+-------------------
+![alt text](image.png)
 
 - 🔭 I'm Currnetly Working On Programming : 
 - **Arm MicroController**
@@ -12,5 +14,4 @@ Hi, I'm Mohammad Hosein Taheri, a Embedded developer, And .Net Developer ,My bac
 -  skill in **C**  and **C#** Programming Language.
 -------------------
 - ⚡ Ask Me : [Here](https://github.com/hardphoenix/hardphoenix/issues/1)
-- 🔗 Contact Me In Telegram: [@mhtaheri_ir](https://t.me/mhtaheri_ir) 
-![alt text](image.png)
+- 🔗 Contact Me In Telegram: [@mhtaheri_ir](https://t.me/mhtaheri_ir)
