@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammad Hosein Taheri 👋
 
 ## 👨‍💻 About Me
-I'm an **Electronics Engineer** with a passion for embedded systems and hardware design. My expertise spans a wide range of technologies and tools in the fields of embedded development and hardware engineering.
+I'm an **Electronics Engineer** specializing in embedded systems and hardware design. My focus is on delivering high-quality solutions in the fields of embedded development and hardware engineering.
 
 ### 💻 What I Do
 - **Embedded Linux Development**
