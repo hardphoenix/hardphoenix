@@ -1,20 +1,26 @@
-### 👋 Hi There, I'm [Mohammad Hosien Taheri](https://github.com/hardphoenix) 
+# Hi there, I'm Mohammad Hosein Taheri 👋
 
-Hi, I'm Mohammad Hosein Taheri, a Embedded developer, And .Net Developer ,My bachelor's degree is in Electronic engineer [Ώ].
+## 👨‍💻 About Me
+I'm an **Electronics Engineer** with a passion for embedded systems and hardware design. My expertise spans a wide range of technologies and tools in the fields of embedded development and hardware engineering.
 
-##
--  skill in **C**  and **C#** Programming Language.
+### 💻 What I Do
+- **Embedded Linux Development**
+- Programming **STM32 Microcontrollers**
+- Working with **RISC-V** microcontrollers, including the ESP32 family
+- Development with **RTOS-based systems**
+- Hardware design using **Altium Designer**
 
-##
+### 🔧 Programming Languages
+- **C**
+- **C#**
 
-- 🔭 I'm Currnetly Working On Programming : 
-- **Embedded Linux Devlopment**.
-- **Arm STM32 Series MicroController**
-- **RISC-V ESP32 Series Microcontroller**
-- **Programming with RTOS**
+### 📟 Tools and Skills
+- Expert in hardware design with **Altium Designer**
+- Embedded systems programming and debugging
 
+## 📫 How to Reach Me
+Feel free to reach out via email:
+- **etatosel@gmail.com**
 
--------------------
-- 🔗 Contact Me at Gmail: etatosel@gmail.com
-
-
+---
+Thanks for stopping by! ✨ Feel free to explore my projects and connect with me!
