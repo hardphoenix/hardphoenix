@@ -16,6 +16,6 @@ Hi, I'm Mohammad Hosein Taheri, a Embedded developer, And .Net Developer ,My bac
 
 -------------------
 - ⚡ Ask Me : [Here](https://github.com/hardphoenix/hardphoenix/issues/1)
-- 🔗 Contact Me In Gmail: [etatosel@gmail.com](etatosel@gmail.com)
+- 🔗 Contact Me In Gmail: etatosel@gmail.com
 
 
