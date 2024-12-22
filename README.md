@@ -18,7 +18,7 @@ I'm an **Electronics Engineer** specializing in embedded systems and hardware de
 - Expert in hardware design with **Altium Designer**
 - Embedded systems programming and debugging
 
-## 📫 How to Reach Me
+## 📫 Communication way:
 Feel free to reach out via email:
 - **etatosel@gmail.com**
 
