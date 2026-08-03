@@ -5,22 +5,7 @@ I'm an **Electronics Engineer** specializing in embedded systems and hardware de
 
 ### 💻 What I Do
 - **Embedded Linux Development**
-- Programming **STM32 Microcontrollers**
-- Working with **RISC-V** microcontrollers, including the ESP32 family
-- Development with **RTOS-based systems**
-- Hardware design using **Altium Designer**
+- Programming **STM32 , ESP32 , Nuvoton  Microcontrollers and Free-RTOS base systems**
+- Experience in hardware design using **Altium Designer**
 
-### 🔧 Programming Languages
-- **C**
-- **C#**
 
-### 📟 Tools and Skills
-- Expert in hardware design with **Altium Designer**
-- Embedded systems programming and debugging
-
-## 📫 Communication way:
-Feel free to reach out via email:
-- **etatosel@gmail.com**
-
----
-Thanks for stopping by! ✨ Feel free to explore my projects and connect with me!
